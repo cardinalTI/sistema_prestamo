@@ -1,0 +1,13 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\bin\Debug\Sistema de Prestamo.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\bin\Debug\Sistema de Prestamo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\bin\Debug\Sistema de Prestamo.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema de Prestamo.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema_de_Prestamo.inicio_sesion.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema_de_Prestamo.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema de Prestamo.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema de Prestamo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema de Prestamo.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema_de_Prestamo.menu_principal.resources
+C:\Users\Jose\Documents\Projects\Sistema de Prestamo\Sistema de Prestamo\bin\Debug\Sistema de Prestamo.exe.config
+C:\Users\Jose\Documents\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema de Prestamo.exe
+C:\Users\Jose\Documents\Projects\Sistema de Prestamo\Sistema de Prestamo\obj\Debug\Sistema de Prestamo.pdb
